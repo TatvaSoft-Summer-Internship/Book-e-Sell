@@ -12,9 +12,9 @@ const Meta = ({ title, description, keywords }) => {
 };
 
 Meta.defaultProps = {
-  title: 'Welcome to eMart',
-  description: 'Your Shopping Destination',
-  keywords: 'elctronics buy shop good cheap best price',
+  title: 'Book-e-Sell',
+  description: 'Book Store',
+  keywords: 'Book Store',
 };
 
 export default Meta;
